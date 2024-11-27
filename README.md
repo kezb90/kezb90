@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Me Mohsen Rahmati
+I'm Mohsen Rahmati
 🔭 I’m currently working on<br>Developing Django apps, Telegram bots, and automating workflows with Python.<br><br>👯 I’m looking to collaborate on<br>AI and ML, Open-source Django projects, Python web scraping, or React-based frontend development.<br><br>🤝 I’m looking for help with<br>Improving my English-speaking skills and exploring advanced business English conversations.<br><br>🌱 I’m currently learning<br>AI and  ML, Advanced Django techniques, FastAPI, and Power BI dashboard integration with web apps.<br><br>💬 Ask me about<br>Web scraping, Python automation, building RESTful APIs with Django, or integrating React with backend systems.<br><br>⚡ Fun fact<br>I started programming 8 years ago and have experience working on national-scale projects, but I still get excited by finding a clever one-liner in Python!
 
 
