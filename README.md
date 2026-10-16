@@ -1,25 +1,92 @@
-# 💫 About Me:
-# I'm Mohsen Rahmati
-🔭 I’m currently working on<br>Developing Django apps, Telegram bots, and automating workflows with Python.<br><br>👯 I’m looking to collaborate on<br>AI and ML, Open-source Django projects, Python web scraping, or React-based frontend development.<br><br>🤝 I’m looking for help with<br>Improving my English-speaking skills and exploring advanced business English conversations.<br><br>🌱 I’m currently learning<br>AI and  ML, Advanced Django techniques, FastAPI, and Power BI dashboard integration with web apps.<br><br>💬 Ask me about<br>Web scraping, Python automation, building RESTful APIs with Django, or integrating React with backend systems.<br><br>⚡ Fun fact<br>I started programming 8 years ago and have experience working on national-scale projects, but I still get excited by finding a clever one-liner in Python!
+# Hi, I'm Mohsen Rahmati 👋
 
+### Python Developer | Django & REST APIs | Problem Solver
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mohsen-rahmati-5520b5100/) 
+I'm a Python developer with years of programming experience, interested in building practical software, investigating complex problems, and understanding how things work under the hood.
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=kezb90&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=kezb90&theme=ambient_gradient&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kezb90&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+**When something breaks, I want to know why — not just how to silence the error.**
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+I enjoy the process of turning unclear problems into understandable, testable, and maintainable solutions. For me, debugging isn't just fixing code; it's investigating assumptions, tracing root causes, testing hypotheses, and learning something new along the way.
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=kezb90&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true)
+## 🔍 How I Approach Problems
+
+- 🧩 **Curiosity first:** I dig deeper when something doesn't behave as expected.
+- 🔬 **Evidence over guesses:** I investigate logs, configuration, code paths, and test results before settling on a solution.
+- 🔁 **Persistence matters:** I keep exploring alternatives until I understand the problem and have a reliable way forward.
+- 🧪 **Fixes should stay fixed:** Where appropriate, I add regression tests to prevent the same issue from returning.
+- 📚 **Learn by building:** I enjoy exploring unfamiliar technologies and turning what I learn into working software.
+
+> I don't need to know every answer upfront. I need to be willing to investigate until I find one.
+
+## 🛠️ What I Work On
+
+- **Backend development:** Python, Django, Django REST Framework, and RESTful APIs.
+- **Authentication & security:** JWT, OTP verification, role-based access control, and secure application workflows.
+- **Automation & data extraction:** Python automation, web scraping, and useful developer tools.
+- **Databases & infrastructure:** PostgreSQL, Redis, Docker, and application deployment.
+- **AI-assisted engineering:** Exploring AI agents and tools that help investigate problems and improve development workflows.
+
+## 🚀 Selected Projects
+
+A few projects that reflect the kinds of problems and applications I enjoy working on:
+
+### [Sanaap Backend API Challenge](https://github.com/kezb90/api-challenge-backend-sanaa)
+A Django REST Framework document-management API featuring JWT authentication, role-based permissions, PostgreSQL, Redis, and MinIO object storage.
+
+**Focus:** API design, authentication, permissions, and service integration.
+
+### [Social Media Platform](https://github.com/kezb90/social_media)
+A Django-based social platform with user profiles, posts, likes, following, direct messaging, and activity tracking.
+
+**Focus:** Backend application structure, data models, and API development.
+
+### [Swiss Real Estate Scraper](https://github.com/kezb90/switzerland-real-estate-scraper)
+A Python desktop application for collecting property listings based on user-defined search criteria and exporting data for further analysis.
+
+**Focus:** Web scraping, data processing, persistence, and automation.
+
+### [Toy Shop](https://github.com/kezb90/toy_shop)
+An e-commerce application built with Django, including product listings, a shopping basket, blog functionality, and payment-related features.
+
+**Focus:** Web application development and business workflows.
+
+### [PDF to Word Converter](https://github.com/kezb90/PDF_To_Word)
+A Python utility designed to extract text and images from PDF files and generate editable Word documents.
+
+**Focus:** Document processing and practical automation.
+
+### [Algorithm Challenges](https://github.com/kezb90/sanaap-backend-challenge-algorithm)
+A collection of Python solutions for string-processing and algorithmic problems.
+
+**Focus:** Problem decomposition, edge cases, and algorithmic thinking.
+
+*These projects represent different stages and areas of my development journey. Their inclusion doesn't imply that every project is production-ready.*
+
+## 🌱 Currently Exploring
+
+- Advanced Django and Django REST Framework
+- AI agents and AI-assisted software engineering
+- Reliable authentication and application security
+- Better testing, debugging, and maintainable architecture
+- Automation that solves real-world problems
+
+## 🤝 Let's Connect
+
+I'm interested in collaborating on Python and Django projects, open-source development, automation, and practical AI applications.
+
+If you're working on an interesting technical problem, I'd be happy to explore it together.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohsen-rahmati-5520b5100/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kezb90)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=kezb90&icon=7&color=11)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 📊 GitHub Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kezb90&show_icons=true&theme=transparent&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kezb90&layout=compact&theme=transparent&hide_border=true)
+
+---
+
+*Stay curious. Follow the evidence. Understand the problem. Keep improving.*
