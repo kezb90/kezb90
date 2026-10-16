@@ -81,12 +81,4 @@ If you're working on an interesting technical problem, I'd be happy to explore i
 
 ---
 
-### 📊 GitHub Activity
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kezb90&show_icons=true&theme=transparent&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kezb90&layout=compact&theme=transparent&hide_border=true)
-
----
-
 *Stay curious. Follow the evidence. Understand the problem. Keep improving.*
